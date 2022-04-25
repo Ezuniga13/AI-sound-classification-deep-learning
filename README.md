@@ -1,4 +1,4 @@
-# Deep learning Artificial Intelligence model to classify Dogs and Cats using sound waves
+# Deep Learning Artificial Intelligence Model to classify Dogs and Cats using sound waves
 
 Esteban Zuniga <br>
 September 20, 2020 <br>
