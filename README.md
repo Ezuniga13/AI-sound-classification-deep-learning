@@ -14,4 +14,4 @@ lorem
 
 The look of Sound <br>
 
-![Main Page!](/cat-train/cat_116.png.png) <br>
+![Main Page!](/cat-train/cat_116.png) <br>
