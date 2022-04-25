@@ -1,6 +1,8 @@
-# AI-sound-classification-deep-learning
+# Deep learning Artificial Intelligence model to classify Dogs and Cats using sound waves
 
-## Table of Contents
-1. Cats 
-2. Dogs
-3. Notebook
+Esteban Zuniga
+September 20, 2020
+Deep Learning
+
+## ABSTRACT
+
