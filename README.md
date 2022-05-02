@@ -6,7 +6,7 @@ Deep Learning
 
 ## ABSTRACT
 
-lorem
+Lorem
 
 ## Architecture
 
